@@ -1,5 +1,3 @@
-package hk.edu.polyu.comp.comp2021.assignment1;
-
 import org.junit.Test;
 
 public class MiniFloatTest {
